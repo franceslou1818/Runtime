@@ -3,7 +3,8 @@
 University of Glasgow
 Interactive Systems
 
-Frances Ramirez
-Laura Moreby
-Alex Marshall
-Ryan Fox
+- Frances Ramirez
+- Mattew Biggins
+- Laura Moreby
+- Alex Marshall
+- Ryan Fox
